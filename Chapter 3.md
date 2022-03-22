@@ -22,7 +22,7 @@ pub resource Jacob {
 
 }
 ```
-**Jacob**, -is a resourceful type :P
+**@Jacob**, -is a resourceful type :P
 
 **Q6: I Spy 4 things wrong with this code. Please fix them.**
 ```
