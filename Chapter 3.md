@@ -67,7 +67,7 @@ pub fun createJacob(): @Jacob {
 
 **Q3: Explain, in your own words, why references can be useful in Cadence.**
 
-References are useful when wanting to read data about a resource. Since resources have to be explicitly handled, without references we would have to withdrawal the resource, read it and then deposit it again. References allow us to read the data of a resource without having to move it.
+References are useful when wanting to read data about a resource. Since resources have to be explicitly handled, without references we would have to withdraw the resource, read it and then deposit it again. References allow us to read the data of a resource without having to move it.
 
 
 ## Day 4
