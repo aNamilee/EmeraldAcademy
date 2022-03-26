@@ -95,4 +95,5 @@ We want to add a function inside our Collection resource that will borrow a refe
 
 **Take our NFT contract so far and add comments to every single resource or function explaining what it's doing in your own words. Something like this:**
 
-[Ch4Day4Quest.pdf](https://github.com/aNamilee/EmeraldAcademy/files/8354575/Ch4Day4Quest.pdf)
+[Ch4Day4Quest.pdf](https://github.com/aNamilee/EmeraldAcademy/files/8354713/Ch4Day4Quest.pdf)
+
